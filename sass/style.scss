@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  width: 900px;
+  p {
+    font-size: 26px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+}
+
+.btn-wrapper {
+  padding: 40px;
+  text-align: center;
+  button {
+    border: none;
+    border-radius: 5px;
+    background-color: khaki;
+    color: black;
+	font-size: 24px;
+    height: 50px;
+    width: 200px;
+  }
+}
